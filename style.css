@@ -105,7 +105,7 @@ a{
 #full{
     width: 40%;
     float: left;
-    height: 400px;
+    /* height: 400px; */
     margin-left: 5%;
     padding-left: 2%;
     /* border-left: 2px solid; */
@@ -117,7 +117,9 @@ a{
 #front{
     width: 40%;
     float: left;
-    height: 400px;
+    /* height: 400px; */
+    padding-bottom: 100px;
+    padding-right: 2%;
     margin-left: 5%;
     padding-left: 2%;
     border-left: 7px solid;
